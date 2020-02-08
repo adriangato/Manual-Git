@@ -2,6 +2,10 @@
 Git es una herramienta genial, aquí se describen algunos comandos básicos
 
 - git init: inicia un repositorio en mi computador
+- git status
+- git add .    //Realiza cambios en el archivo.
+- git commit -m "Mensaje"
+- git push origin master
 
 
 
